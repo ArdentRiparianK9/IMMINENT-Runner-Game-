@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "17D78B36-890A-4255-9D12-523EAA7E728E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "033FC85B-D8F1-48CD-9995-E088197EDEB7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scene Test/ScoreScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ScoreScene"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "033FC85B-D8F1-48CD-9995-E088197EDEB7 - b94b44d103fe0473"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMMINENT.ScoreScene.init(size: __C.CGSize) -&gt; IMMINENT.ScoreScene"
+                  moduleName = "IMMINENT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/k.a.yang/Desktop/MGD/Scene%20Test%20Game/Scene%20Test/ScoreScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "033FC85B-D8F1-48CD-9995-E088197EDEB7 - fbba19da1f19f91c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMMINENT.ScoreScene.init() -&gt; IMMINENT.ScoreScene"
+                  moduleName = "IMMINENT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/k.a.yang/Desktop/MGD/Scene%20Test%20Game/Scene%20Test/ScoreScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "033FC85B-D8F1-48CD-9995-E088197EDEB7 - 3d95a5494b40315f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMMINENT.ScoreScene.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IMMINENT.ScoreScene&gt;"
+                  moduleName = "IMMINENT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/k.a.yang/Desktop/MGD/Scene%20Test%20Game/Scene%20Test/ScoreScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62723629-3467-460B-86E3-62567B8003D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scene Test/GameScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "452"
+            endingLineNumber = "452"
+            landmarkName = "GameScene"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
